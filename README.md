@@ -1,6 +1,7 @@
 # PROJETO Explorando os Recursos de IA Generativa com Copilot e OpenAI
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Primeira imagem 
+
 https://static.mundoeducacao.uol.com.br/mundoeducacao/2019/12/membrana-plasmatica.jpg
 
 Contendo uma foto de uma membrana plasmatica, a resposta obtida pelo Copilot foi:
@@ -26,6 +27,7 @@ Você está interessada em aprender sobre Java ou programação? Posso ajudar co
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Terceira imagem
+
 https://external-preview.redd.it/qW5sXZSe_7w815bbdJh3mwhzBxyEdK13fFyRs3_8ZdQ.jpg?width=640&crop=smart&auto=webp&s=53d250c9db70f2b0fe7a93de0cf57e7f7ffc2a06
 
 Contendo uma foto da logo do framework Angular, a resposta obtida pelo Copilot foi:
